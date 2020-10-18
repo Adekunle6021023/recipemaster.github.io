@@ -182,6 +182,14 @@ footer {
 
 /*section-a*/
 
+.icon-one .fa-utensils {
+    color: #fa0068ea;
+}
+
+.icon-two .fa-clock {
+    color: #fa0068ea;
+}
+
 .group-one .text-one {
     font-family: 'Montserrat',
     sans-serif;
